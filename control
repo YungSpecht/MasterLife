@@ -1,0 +1,9 @@
+Package: com.rango.proxymasterlife
+Name: ProxyMasterLife
+Author: Yung Specht
+Description: Unlocks the VIP-Subscription in the VPNProxyMaster App from the AppStore 
+Depends: mobilesubstrate
+Maintainer: Yung Specht
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.1
